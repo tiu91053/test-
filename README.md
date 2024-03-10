@@ -1,7 +1,7 @@
 # test-aja
 
 
-force_install_dir /PZ/
+force_install_dir ./PZ/
 
 login anonymous
 
