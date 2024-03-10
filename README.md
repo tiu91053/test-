@@ -1,5 +1,6 @@
 # test-aja
 
+curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
 
 force_install_dir ./PZ/
 
