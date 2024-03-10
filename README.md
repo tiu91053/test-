@@ -8,3 +8,5 @@ force_install_dir ./PZ/
 login anonymous
 
 app_update 380870 validate
+
+./PZ/start-server.sh -servername sever1 -nosteam -cachedir=./PZ_setting/
